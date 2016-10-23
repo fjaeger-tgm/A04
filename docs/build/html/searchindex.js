@@ -1,0 +1,1 @@
+Search.setIndex({envversion:50,filenames:["bruch","index"],objects:{},objnames:{},objtypes:{},terms:{content:1,modulindex:1,stichwortverzeichnis:1,such:1},titles:["Bruch","Welcome to A04_TTD&#8217;s documentation!"],titleterms:{a04_ttd:1,and:1,bruch:0,documentation:1,indic:1,tabl:1,welcom:1}})
